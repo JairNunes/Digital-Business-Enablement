@@ -1,0 +1,16 @@
+2017-02-17 19:39:25 WARN  Console:26 - Início da aplicação
+2017-02-17 19:39:29 DEBUG Console:46 - Pesquisando o produto: null
+2017-02-17 19:39:29 ERROR Console:56 - Produto inexistente
+2017-02-17 19:39:29 WARN  Console:61 - Fim da aplicação
+2017-02-17 19:39:53 WARN  Console:26 - Início da aplicação
+2017-02-17 19:39:55 DEBUG Console:46 - Pesquisando o produto: 456
+2017-02-17 19:39:55 ERROR Console:56 - Produto inexistente
+2017-02-17 19:39:55 WARN  Console:61 - Fim da aplicação
+2017-02-17 19:42:29 WARN  Console:26 - Início da aplicação
+2017-02-17 19:42:36 DEBUG Console:46 - Pesquisando o produto: 410
+2017-02-17 19:42:36 ERROR Console:56 - Produto inexistente
+2017-02-17 19:42:36 WARN  Console:61 - Fim da aplicação
+2017-02-17 19:43:50 WARN  Console:26 - Início da aplicação
+2017-02-17 19:43:53 DEBUG Console:46 - Pesquisando o produto: 410
+2017-02-17 19:43:53 ERROR Console:56 - Produto inexistente
+2017-02-17 19:43:53 WARN  Console:61 - Fim da aplicação
